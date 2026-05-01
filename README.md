@@ -53,6 +53,8 @@ aws-cost-optimizer/
 ├── lambda/
 │   ├── idle_ec2.py
 │   ├── unused_ebs.py
+│   ├── snapshot_cleanup.py
+│   └── cost_report.py
 │
 ├── README.md
 └── .gitignore
